@@ -1,2 +1,4 @@
 Console.WriteLine("Hello Github");
+Console.Write("First Conflict");
 Console.WriteLine("First Conflict");
+
